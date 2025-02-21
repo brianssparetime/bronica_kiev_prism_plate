@@ -40,7 +40,7 @@ module plate(centering_targets = cent_targ) {
     top_hole_v_offset = 1.2;
     mid_hole_v_offset = 37.2-4; // how far down from the top edge; bigger = lower
     bottom_hole_v_offset = 61.8-4;
-    top_bottom_h_shift = .55; // shifts the four corners; bigger = inwards
+    top_bottom_h_shift = .575; // shifts the four corners; bigger = inwards
 
     prism_screw_dia = 1.5; 
     prism_screw_coords = [
