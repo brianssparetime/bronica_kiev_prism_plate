@@ -36,9 +36,9 @@ module plate(centering_targets = cent_targ) {
 
     shift_down = 1.5;
     top_edge = outside_length / 2 - shift_down;
-    side_hole_h_offset = 27.7;
+    side_hole_h_offset = 27.72;
     top_hole_v_offset = 1.2;
-    mid_hole_v_offset = 37.2-4; // how far down from the top edge; bigger = lower
+    mid_hole_v_offset = 37.21-4; // how far down from the top edge; bigger = lower
     bottom_hole_v_offset = 61.8-4;
     top_bottom_h_shift = .575; // shifts the four corners; bigger = inwards
 
