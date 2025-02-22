@@ -15,7 +15,7 @@ module calib_sq(){
 }
 
 
-module plate(centering_targets = cent_targ) {
+module plate(centering_targets) {
         
     $fn=48;
     eps = .01;
@@ -62,40 +62,51 @@ module plate(centering_targets = cent_targ) {
     align_h_offset = 17.5 / 2;
     align_hole_dia = 2;
 
+
+    module prism_holes(dia) {
+        for(i = [0: len(prism_screw_coords) - 1]) {
+            p = prism_screw_coords[i];
+            translate([p[0], p[1]]) {
+                circle(d=dia);
+            }
+        } 
+    }
+
+    module align_holes(dia) {
+        // alignment holes
+        copy_mirror([0,1]) {
+            translate([top_edge - align_v_offset, align_h_offset]) {
+                circle(d=dia);
+            }
+        }
+    }
+
     difference() {
         // outside
         square([outside_length, outside_width], center=true);
         // hole
         square([inside_length, inside_width], center=true);
 
-        // prism screw holes
-        for(i = [0: len(prism_screw_coords) - 1]) {
-            p = prism_screw_coords[i];
-            translate([p[0], p[1]]) {
-                circle(d=prism_screw_dia);
-            }
-        }
+        prism_holes(dia = prism_screw_dia);
+        align_holes(dia = align_hole_dia);
+    }
 
-        // alignment holes
-        copy_mirror([0,1]) {
-            translate([top_edge - align_v_offset, align_h_offset]) {
-                circle(d=align_hole_dia);
-            }
-        }
-
-        // centering targets
-        // if(cent_targ) {
-
-        // }
-
+    // centering targets
+    if(centering_targets) {
+        echo("adding centering targets");
+        target_point_dia = .2;
+        prism_holes(dia = target_point_dia);
+        align_holes(dia = target_point_dia); 
 
     }
 
+}
+
+// for printing to PDF
+// Remember to make sure scaling on print setup is set to 100%
+calib_sq();
+plate(centering_targets = true);
 
 
-
-
-    }
-
-    calib_sq();
-    plate();
+// for direct manufacture:
+plate(centering_targets = false);
