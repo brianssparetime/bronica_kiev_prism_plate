@@ -122,7 +122,7 @@ You are welcome to either:
 Suggestions for improving this procedure welcomed.
 
 
-###Eyecups
+### Eyecups
 
 My Kiev 88 did not come with a rubber eyecup.
 
