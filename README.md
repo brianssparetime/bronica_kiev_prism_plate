@@ -51,27 +51,27 @@ I screwed back in the 8 screws and it was a perfect fit.  Measure once, cut thri
 
 ![looking-down](photos/looking-down-body.JPG)
 *looking down into the body with no finder installed.  In red are the finder alignment pins;  in green, the latch that holds down the front;  in blue the two prongs that slide over the plate into the notches to hold down the back side.*
-<BR>
+<BR><BR><BR>
 
 
 ![original-plate](photos/original-plate.jpeg)
 *the original factory plate*
-<BR>
+<BR><BR><BR>
 
 
 ![compare](photos/photos/New-plate-compare-wlf.jpeg)
 *new finder plate compared with the WLF.  Note the two front sides are facing each other.*
-<BR>
+<BR><BR><BR>
 
 
 ![compare](photos/templates-old-new.jpeg)
 *The 14 printouts to measure/improve the accuracy of the cad file, one of the hand prototypes (left), the factory plate (right), and my plate installed*
-<BR>
+<BR><BR><BR>
 
   
 ![detail1](photos/detail1.jpeg)
 *countersink lets the screws sit nearly flush*
-<BR>
+<BR><BR><BR>
 
 
 ### problem #2 back side grooves
@@ -85,15 +85,15 @@ I don't have fancy tools, so I just used a small hand file.  Because the notches
 
 ![detail2](photos/detail2.jpeg)
 *Detail showing the notches*
-<BR>
+<BR><BR><BR>
 
 ![underside](photos/underside.jpeg)
 *My plate installed.  Note the notches*
-<BR>
+<BR><BR><BR>
 
 ![backi-notches](photos/back-notches.jpeg)
 *back notches head on*
-<BR>
+<BR><BR><BR>
 
 
 ### problem #3 front latch notch
