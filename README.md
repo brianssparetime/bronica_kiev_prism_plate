@@ -59,12 +59,12 @@ I screwed back in the 8 screws and it was a perfect fit.  Measure once, cut thri
 <BR><BR><BR>
 
 
-![compare](photos/photos/New-plate-compare-wlf.jpeg)
+![new-plate-compare](photos/New-plate-compare-wlf.jpeg)
 *new finder plate compared with the WLF.  Note the two front sides are facing each other.*
 <BR><BR><BR>
 
 
-![compare](photos/templates-old-new.jpeg)
+![templates-old-new](photos/templates-old-new.jpeg)
 *The 14 printouts to measure/improve the accuracy of the cad file, one of the hand prototypes (left), the factory plate (right), and my plate installed*
 <BR><BR><BR>
 
