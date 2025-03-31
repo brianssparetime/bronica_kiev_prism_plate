@@ -3,9 +3,6 @@
 # A metered prism for the Bronica S2 that doesn't suck:  Guide to adapt a Kiev 88 TTL (free/opensource cad file, printable template)
 
 ![side-view](photos/full-side.JPG)
-![front-view](photos/full-front.JPG)
-![angle2-view](photos/full-angle.JPG)
-![angle-view](photos/full-angle-view.jpeg)
 
 
 
@@ -20,6 +17,11 @@ Researching other options, I found [this old flickr thread](https://www.flickr.c
 I decided to go for the regular metered version of the Kiev prism (TTL), but there are a few other Kiev 88 prisms that share the same footprint and should work with this as well (including the Spot-TTL).  While I wouldn't describe the Kiev 88 prism as compact or particularly good looking, it's far lighter and way better looking than either of the Bronica prisms.  And much brighter and clearer too.  I should probably mention that none of the meters in these prisms couple to the camera - you have to make sure the settings on the meter mirror those set on the body (and the iso of your film).
 
 *Note:  the EC series uses an entirely different mechanism to attach finders/prism, so this will not work for those cameras.  (But if anyone feels like giving me another Kiev prism on the cheap, I think it's doable.)*
+
+
+![front-view](photos/full-front.JPG)
+![angle2-view](photos/full-angle.JPG)
+![angle-view](photos/full-angle-view.jpeg)
 
 
 
