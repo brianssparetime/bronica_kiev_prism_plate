@@ -134,7 +134,7 @@ First, I tried ordering [these generic ones](https://www.amazon.com/dp/B0CQXGXL1
 
 
 
-###Two other great resources on Kiev 88 finders:
+### Two other great resources on Kiev 88 finders:
 
 https://kievaholic.com/meters.html<BR><BR>
 https://www.mr-alvandi.com/downloads/camera-and-accessorys-manuals/kiev-88-TTL-meter-prisms.pdf<BR><BR><BR>
