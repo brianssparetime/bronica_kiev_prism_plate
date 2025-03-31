@@ -2,6 +2,9 @@
 
 # A metered prism for the Bronica S2 that doesn't suck:  Guide to adapt a Kiev 88 TTL (free/opensource cad file, printable template)
 
+![side-view](photos/full-side-profile.jpeg)
+
+
 
 There are occasions where it would be nice to have a prism, and a some when it would be nice to have a built-in meter (particularly for macro/bellows and for shooting adapted lenses where I may be unsure of the actual fstop).
 
