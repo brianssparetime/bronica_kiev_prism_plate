@@ -116,8 +116,8 @@ On the more immediate side, if you do go through, dust (especially ground metal 
 
 You are welcome to either:
 
- - download the DXF file, and laser cut it yourself or send it to a service like sendcutsend.  All you need to select is the material and thickness of the plate - that's it.
- - download the PDF file, which has centering dots for the holes.  If you want to go the drill press and bandsaw route, these dots are for punching to center your drill bit.  If you don't have a drill press, I don't recommend doing it this way - I couldn't get drill holes accurate enough for the tiny screws by hand.
+ - [download the DXF file](bronica_kiev_prism_plate - 2025-03-12 scs proto 1.dxf), and laser cut it yourself or send it to a service like sendcutsend.  All you need to select is the material and thickness of the plate - that's it.
+ - [download the PDF file](bronica_kiev_prism_plate.pdf), which has centering dots for the holes.  If you want to go the drill press and bandsaw route, these dots are for punching to center your drill bit.  If you don't have a drill press, I don't recommend doing it this way - I couldn't get drill holes accurate enough for the tiny screws by hand.
 
 Suggestions for improving this procedure welcomed.
 
