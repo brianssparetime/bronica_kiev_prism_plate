@@ -136,8 +136,9 @@ First, I tried ordering [these generic ones](https://www.amazon.com/dp/B0CQXGXL1
 *A binocular eyepiece that was a poor fit, the generic amazon one, and the Arax one*
 
 
+## Other Resources:
 
-### Two other great resources on Kiev 88 finders:
+### Two other great sources of info on Kiev 88 finders (including calibration):
 
 https://kievaholic.com/meters.html<BR><BR>
 https://www.mr-alvandi.com/downloads/camera-and-accessorys-manuals/kiev-88-TTL-meter-prisms.pdf<BR><BR><BR>
