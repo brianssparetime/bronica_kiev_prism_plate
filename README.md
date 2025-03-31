@@ -2,9 +2,9 @@
 
 # A metered prism for the Bronica S2 that doesn't suck:  Guide to adapt a Kiev 88 TTL (free/opensource cad file, printable template)
 
-![side-view](photos/full-side.jpeg)
-![front-view](photos/full-front.jpeg)
-![angle2-view](photos/full-angle.jpeg)
+![side-view](photos/full-side.JPG)
+![front-view](photos/full-front.JPG)
+![angle2-view](photos/full-angle.JPG)
 ![angle-view](photos/full-angle-view.jpeg)
 
 
