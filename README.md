@@ -49,6 +49,24 @@ The plate arrived.  I sanded the rough edges. Then I GENTLY gave each of the hol
 
 I screwed back in the 8 screws and it was a perfect fit.  Measure once, cut thrice, get smart, measure 14 times, and cut once more, my grandpa used to say.
 
+![looking-down](photos/looking-down-body.JPG)
+* looking down into the body with no finder installed.  In red are the finder alignment pins;  in green, the latch that holds down the front;  in blue the two prongs that slide over the plate into the notches to hold down the back side.*
+
+
+![original-plate](photos/original-plate.jpeg)
+* the original factory plate
+
+![compare](photos/photos/New-plate-compare-wlf.jpeg)
+* new finder plate compared with the WLF.  Note the two front sides are facing each other.*
+
+![compare](photos/templates-old-new.jpeg)
+* The 14 printouts to measure/improve the accuracy of the cad file, one of the hand prototypes (left), the factory plate (right), and my plate installed*
+  
+![detail1](photos/detail1.jpeg)
+* countersink lets the screws sit nearly flush *
+
+
+
 ### problem #2 back side grooves
 
 
@@ -57,6 +75,16 @@ After removing the native Kiev plate, I measured where it sat over the prongs on
 I don't have fancy tools, so I just used a small hand file.  Because the notches need to be deep enough for the prongs to fit inside over the baseplate, I had to file an angle so as not to chew up too much of the inside of the finder.  Maybe there was a better way to do this, but it only took an hour or so of filing to make the grooves.
 
 *The final grooves are ~2mm tall (NOT counting the baseplate).  Each is 6-7mm wide, and they are 33.5mm apart (16.75mm from the centerline).  You could probably get away with a narrower groove, but that's the width of the file I had.*
+
+![detail2](photos/detail2.jpeg)
+* Detail showing the notches *
+
+![underside](photos/underside.jpeg)
+* My plate installed.  Note the notches *
+
+![backi-notches](photos/back-notches.jpeg)
+* back notches head on *
+
 
 
 ### problem #3 front latch notch
@@ -70,6 +98,8 @@ For that oopsie, and for the places where the notches go through on the back, I 
 
 On the more immediate side, if you do go through, dust (especially ground metal dust from grinding) can get inside.  I'm still working out how best to avoid/fix this (ideas?), but I think going gently with a triangle file is probably the best bet.
 
+![front-view](photos/front-view.jpeg)
+* I am ashamed of this butchery that is the groove for the front latch to catch on. *
 
 
 ### If you want to try this yourself...
@@ -89,6 +119,8 @@ My Kiev 88 did not come with a rubber eyecup.
 
 First, I tried ordering [these generic ones](https://www.amazon.com/dp/B0CQXGXL1B?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_5) on Amazon.  They were a good fit but not great at blocking extraneous light.  I eventually broke down and just ordered [a new replacement eyecup directly from Arax](https://araxfoto.com/accessories/eye-cup/) for a better fit.
 
+
+![eyepieces](photos/eyepieces.jpeg)
 
 
 
