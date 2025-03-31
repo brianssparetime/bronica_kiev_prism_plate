@@ -136,13 +136,13 @@ First, I tried ordering [these generic ones](https://www.amazon.com/dp/B0CQXGXL1
 
 ###Two other great resources on Kiev 88 finders:
 
-https://kievaholic.com/meters.html
-https://www.mr-alvandi.com/downloads/camera-and-accessorys-manuals/kiev-88-TTL-meter-prisms.pdf
+https://kievaholic.com/meters.html<BR><BR>
+https://www.mr-alvandi.com/downloads/camera-and-accessorys-manuals/kiev-88-TTL-meter-prisms.pdf<BR><BR><BR>
 
 
 ### My other substantive Bronica S2-related reviews and how-tos:
 
-[40mm Nikkor-D f4 review](https://www.reddit.com/r/AnalogCommunity/comments/1jkkd1u/the_little_known_alternative_to_the_hasselblad/)
-[500mm Komura f7 review](https://www.reddit.com/r/AnalogCommunity/comments/1h1fw50/bronica_s2a_telephoto_madness_the_komura_500mm_f7/)
-[Buster Brown 3A box camera lens adapted](https://www.reddit.com/r/AnalogCommunity/comments/1iykq9i/bronica_s2a_sporting_a_box_camera_lens_with_a/)
-[S2 bellows repair and S2->EC conversion](https://www.reddit.com/r/Bronica/comments/1jgc18j/bronica_s2_bellows_screw_replacements_and/)
+[40mm Nikkor-D f4 review](https://www.reddit.com/r/AnalogCommunity/comments/1jkkd1u/the_little_known_alternative_to_the_hasselblad/)<BR><BR>
+[500mm Komura f7 review](https://www.reddit.com/r/AnalogCommunity/comments/1h1fw50/bronica_s2a_telephoto_madness_the_komura_500mm_f7/)<BR><BR>
+[Buster Brown 3A box camera lens adapted](https://www.reddit.com/r/AnalogCommunity/comments/1iykq9i/bronica_s2a_sporting_a_box_camera_lens_with_a/)<BR><BR>
+[S2 bellows repair and S2->EC conversion](https://www.reddit.com/r/Bronica/comments/1jgc18j/bronica_s2_bellows_screw_replacements_and/)<BR><BR>
