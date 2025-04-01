@@ -56,6 +56,9 @@ The plate arrived.  I sanded the rough edges. Then I GENTLY gave each of the hol
 I screwed back in the 8 screws and it was a perfect fit.  Measure once, cut thrice, get smart, measure 14 times, and cut once more, my grandpa used to say.
 
 
+![templates-old-new](photos/templates-old-new.jpeg)
+*The 14 printouts to measure/improve the accuracy of the cad file, one of the hand prototypes (left), the factory plate (right), and my plate installed*
+<BR><BR><BR>
 
 
 ![original-plate](photos/original-plate.jpeg)
@@ -68,9 +71,6 @@ I screwed back in the 8 screws and it was a perfect fit.  Measure once, cut thri
 <BR><BR><BR>
 
 
-![templates-old-new](photos/templates-old-new.jpeg)
-*The 14 printouts to measure/improve the accuracy of the cad file, one of the hand prototypes (left), the factory plate (right), and my plate installed*
-<BR><BR><BR>
 
   
 ![detail1](photos/detail1.jpeg)
