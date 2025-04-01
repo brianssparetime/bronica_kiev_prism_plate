@@ -31,11 +31,11 @@ I decided to go for the regular metered version of the Kiev prism (TTL), but the
 There are three things you'll need to do to make the Kiev work securely on the Bronica S2a.  
 
 
-1)  You need to replace the base plate to match the correct Bronica dimensions, and add holes for the two Bronica finder alignment pins.
+1)  You need to replace the **base plate** to match the correct Bronica dimensions, and add holes for the two Bronica finder alignment pins.
 
-2)  You need to file two grooves in the back bottom of the Kiev 88 prism.  Two prongs from the back side of the camera slide into these grooves, above the base plate, holding down the back end of the finder.  
+2)  You need to file **two grooves in the back** bottom of the Kiev 88 prism.  Two prongs from the back side of the camera slide into these grooves, above the base plate, holding down the back end of the finder.  
 
-3)  You need to grind or file a small notch in the front side of the finder.   The front release catch of the Bronica fits into this groove, locking it into place.  Ideally the cross-section of the groove should be triangular, with a bottom parallel to the ground glass and a 45 degree angle upward cut.  Careful not to go too deep (I did!).  
+3)  You need to grind or file a **small notch in the front** side of the finder.   The front release catch of the Bronica fits into this groove, locking it into place.  Ideally the cross-section of the groove should be triangular, with a bottom parallel to the ground glass and a 45 degree angle upward cut.  Careful not to go too deep (I did!).  
 
 
 ![looking-down](photos/looking-down-body.JPG)
