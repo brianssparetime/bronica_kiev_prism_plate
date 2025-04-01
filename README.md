@@ -87,17 +87,19 @@ I don't have fancy tools, so I just used a small hand file.  Because the notches
 
 *The final grooves are ~2mm tall (NOT counting the baseplate).  Each is 6-7mm wide, and they are 33.5mm apart (16.75mm from the centerline).  You could probably get away with a narrower groove, but that's the width of the file I had.*
 
+![backi-notches](photos/back-notches.jpeg)
+*back notches head on*
+<BR><BR><BR>
+
 ![detail2](photos/detail2.jpeg)
 *Detail showing the notches*
 <BR><BR><BR>
 
 ![underside](photos/underside.jpeg)
-*My plate installed.  Note the notches*
+*My plate installed.*
 <BR><BR><BR>
 
-![backi-notches](photos/back-notches.jpeg)
-*back notches head on*
-<BR><BR><BR>
+
 
 
 ### problem #3 front latch notch
