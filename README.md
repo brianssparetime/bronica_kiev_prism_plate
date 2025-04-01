@@ -37,10 +37,16 @@ There are three things you'll need to do to make the Kiev work securely on the B
 
 3)  You need to grind or file a small notch in the front side of the finder.   The front release catch of the Bronica fits into this groove, locking it into place.  Ideally the cross-section of the groove should be triangular, with a bottom parallel to the ground glass and a 45 degree angle upward cut.  Careful not to go too deep (I did!).  
 
-As long as you keep the original Kiev plate and can reattach it, none of these steps render the prism unable to work with the Kiev the way it was intended.
 
 ![looking-down](photos/looking-down-body.JPG)
 *looking down into the body with no finder installed.  In red are the finder alignment pins;  in green, the latch that holds down the front;  in blue the two prongs that slide over the plate into the notches to hold down the back side.*
+<BR><BR><BR>
+
+As long as you keep the original Kiev plate and can reattach it, none of these steps render the prism unable to work with the Kiev the way it was intended.
+<BR>
+
+![original-plate](photos/original-plate.jpeg)
+*the original factory plate*
 <BR><BR><BR>
 
 ### problem #1 the base plate
@@ -61,9 +67,6 @@ I screwed back in the 8 screws and it was a perfect fit.  Measure once, cut thri
 <BR><BR><BR>
 
 
-![original-plate](photos/original-plate.jpeg)
-*the original factory plate*
-<BR><BR><BR>
 
 
 ![new-plate-compare](photos/New-plate-compare-wlf.jpeg)
