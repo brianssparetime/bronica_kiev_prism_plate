@@ -39,6 +39,9 @@ There are three things you'll need to do to make the Kiev work securely on the B
 
 As long as you keep the original Kiev plate and can reattach it, none of these steps render the prism unable to work with the Kiev the way it was intended.
 
+![looking-down](photos/looking-down-body.JPG)
+*looking down into the body with no finder installed.  In red are the finder alignment pins;  in green, the latch that holds down the front;  in blue the two prongs that slide over the plate into the notches to hold down the back side.*
+<BR><BR><BR>
 
 ### problem #1 the base plate
 
@@ -52,9 +55,7 @@ The plate arrived.  I sanded the rough edges. Then I GENTLY gave each of the hol
 
 I screwed back in the 8 screws and it was a perfect fit.  Measure once, cut thrice, get smart, measure 14 times, and cut once more, my grandpa used to say.
 
-![looking-down](photos/looking-down-body.JPG)
-*looking down into the body with no finder installed.  In red are the finder alignment pins;  in green, the latch that holds down the front;  in blue the two prongs that slide over the plate into the notches to hold down the back side.*
-<BR><BR><BR>
+
 
 
 ![original-plate](photos/original-plate.jpeg)
